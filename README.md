@@ -1,9 +1,9 @@
 ## Bem-vindo(a) ao perfil do Joao Rodolfo 😁
 
  <div>
-   <a href="https://github.com/Joaorodolfo">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Joaorodolfo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joaorodolfo&layout=compact&langs_count=6&theme=tokyonight"/>
+   <a href="https://github.com/Joao-rodolfo">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Joao-rodolfo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-rodolfo&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
     
 <div style="display: inline_block"><br>
